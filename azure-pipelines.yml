@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  vmImage: ubuntu-latest
+  'ZakPool'
 strategy:
   matrix:
     Python27:
